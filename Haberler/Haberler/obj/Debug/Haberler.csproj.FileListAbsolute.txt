@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Haberler\Haberler\bin\Haberler.dll.config
+c:\users\user\documents\visual studio 2013\Projects\Haberler\Haberler\bin\Haberler.dll
+c:\users\user\documents\visual studio 2013\Projects\Haberler\Haberler\bin\Haberler.pdb
+c:\users\user\documents\visual studio 2013\Projects\Haberler\Haberler\obj\Debug\Haberler.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Haberler\Haberler\obj\Debug\Haberler.dll
+c:\users\user\documents\visual studio 2013\Projects\Haberler\Haberler\obj\Debug\Haberler.pdb
